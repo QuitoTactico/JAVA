@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Amigo
+comment1.params=Nombre\ Estatura
+comment1.target=Amigo(java.lang.String,\ int)
+numComments=2

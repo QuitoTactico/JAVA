@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arge
+comment1.params=p0\ percent\ aug\ p
+comment1.target=int\ nbYear(int,\ double,\ int,\ int)
+comment2.params=p0\ percent\ aug\ p
+comment2.target=int\ nbYear2(int,\ double,\ int,\ int)
+numComments=3
