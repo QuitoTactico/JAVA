@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Monstruo
+comment1.params=nombre\ sangre
+comment1.target=Monstruo(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ moverse()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=n
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=int\ getSangre()
+comment6.params=s
+comment6.target=void\ setSangre(int)
+numComments=7
