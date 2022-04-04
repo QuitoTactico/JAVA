@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PARCIAL2
+comment1.params=matriz
+comment1.target=int[]\ sumaColumnas(int[][])
+comment2.params=arr
+comment2.target=int\ sumaMultiplosCinco(int[])
+comment3.params=arr
+comment3.target=int\ elementoMayor(int[])
+comment4.params=arr
+comment4.target=int\ minimoBuscado(int[][])
+comment5.params=arr
+comment5.target=int\ sumaDiagonal(int[][])
+comment6.params=arr
+comment6.target=void\ transpuesta(int[][])
+numComments=7

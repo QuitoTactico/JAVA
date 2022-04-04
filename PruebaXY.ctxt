@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PruebaXY
+comment1.params=x\ y
+comment1.target=PruebaXY(double,\ double)
+comment2.params=prueba
+comment2.target=double\ sumarMultis(PruebaXY)
+comment3.params=p1\ p2
+comment3.target=double\ estaticoLoMismo(PruebaXY,\ PruebaXY)
+numComments=4
