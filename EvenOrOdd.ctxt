@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EvenOrOdd
+comment1.params=number
+comment1.target=java.lang.String\ even_or_odd(int)
+comment2.params=number
+comment2.target=java.lang.String\ even_or_FACIL(int)
+numComments=3
