@@ -1,0 +1,6 @@
+Nombre: paola
+Género: F
+Edad: 30
+Teléfono: 123456
+Nota: 5.0
+Resultado: Felicitaciones! :)

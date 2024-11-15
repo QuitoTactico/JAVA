@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Captura
+comment0.text=MODULO\ CAPTURA\ **
+comment1.params=
+comment1.target=void\ captarDatosPersonales()
+comment2.params=
+comment2.target=double\ getGrade()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=char\ getGender()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=
+comment6.target=long\ getmobileNo()
+numComments=7
