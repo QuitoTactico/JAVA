@@ -62,7 +62,11 @@ public class Snail {
             }
 
             //right
-            
+            for(int y = inner+1; y < max_y - inner - 1; y++){
+                //System.out.println(array[y][max_x-inner-1]);
+                res.add(array[y][max_x-inner-1]);
+            }
+
             //down
             for(int x = max_x - inner - 1; x >= inner; x--){
                 //System.err.println(array[max_y - inner - 1][x]);
@@ -70,9 +74,59 @@ public class Snail {
             }
             
             //left
-            System.out.println();
+            for(int y = max_y - inner - 2 ; y >= inner+1; y--){
+                //System.out.println(array[y][max_x-inner-1]);
+                res.add(array[y][inner]);
+            }
+
+            //System.out.println();
+        }
+
+        // un-even rectangle
+        if(Math.min(max_y, max_x)%2 != 0){
+            // wiiide (or cubic)
+            if(max_x>=max_y){
+                int middle = ((int) max_y/2); 
+                for(int x = middle; x < max_x - middle; x++){
+                    //System.out.println(array[middle][x]);
+                    res.add(array[middle][x]);
+                }
+            }
+            // taaaall
+            else{
+                
+                int middle = ((int) max_x/2); 
+                for(int y = middle; y < max_y - middle; y++){
+                    res.add(array[y][middle]);
+                }
+
+            }
         }
         
         return res.stream().mapToInt(Integer::intValue).toArray();
     } 
 }
+
+
+
+/*
+ * Much better...
+ * 
+ * public class Snail {
+
+    public static int[] snail(int[][] array) {
+      if (array[0].length == 0) return new int[0];
+      int n = array.length;
+      int[] answer = new int[n*n];
+      int index=0;
+      for (int i = 0; i<n/2; i++){
+        for (int j = i; j < n-i; j++) answer[index++] = array[i][j];
+        for (int j = i+1; j < n-i; j++) answer[index++] = array[j][n-i-1];
+        for (int j = i+1; j < n-i; j++) answer[index++] = array[n-i-1][n-j-1];
+        for (int j = i+1; j < n-i-1; j++) answer[index++] = array[n-j-1][i];
+      }
+      if (n%2 != 0) answer[index++] = array[n/2][n/2];
+      return answer;
+    } 
+}
+ */
