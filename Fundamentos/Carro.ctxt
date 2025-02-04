@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=marca\ cilindraje
+comment1.target=Carro(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=int\ getCilindraje()
+comment4.params=
+comment4.target=java.lang.String\ marcaPotente()
+numComments=5

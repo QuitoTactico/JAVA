@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Circulo1
-comment1.params=radio
-comment1.target=Circulo1(double)
-comment2.params=
-comment2.target=double\ calcularArea()
-numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainSistema
+comment1.params=
+comment1.target=java.lang.String\ BotonDeEncendido()
+comment1.text=m\u00E9todo\ para\ que\ un\ bot\u00F3n\ encienda\ y\ apague\ el\ sistema.\ \r\n\ \ \ \ \ \ los\ requisitos\ para\ mantenerlo\ en\ funcionamiento\ \r\n\ \ \ \ \ \ y\ procesamiento\ constante\ son\ demasiados.\r\nEl\ String\ resultante\ del\ m\u00E9todo\ es\ para\ ejemplificar\ lo\ que\ sucede
+comment2.params=
+comment2.target=void\ RevisarOptimidad()
+comment2.text=CPS\ \=\ Siglas\ para\ "Captado\ Por\ el\ Sensor".\r\n\ \ \ \ \ \ \u00C9ste\ es\ el\ c\u00F3digo\ que\ va\ en\ el\ arduino.\ Cada\ que\ se\ use\ el\r\n\ \ \ \ \ \ m\u00E9todo,\ los\ sensores\ mandar\u00E1n\ autom\u00E1ticamente\ los\ datos\ que\r\n\ \ \ \ \ \ est\u00E9n\ recibiendo.\ Sin\ iteraciones,\ solo\ lo\ de\ ese\ instante.\r\n\u00C9ste\ es\ el\ m\u00F3dulo\ de\ procesamiento
+numComments=3

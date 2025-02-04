@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=parc1
+comment1.params=nums
+comment1.target=int\ multiplicarElementos(int[])
+comment1.text=\r\nmi\ m\u00E9todo
+comment2.params=pos\ nums
+comment2.target=int\ multipArreglo(int,\ int[])
+numComments=3

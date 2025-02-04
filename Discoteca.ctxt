@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=Discoteca
-comment1.params=edad\ dinero\ nombre
-comment1.target=boolean\ accesoDiscoteca(int,\ int,\ java.lang.String)
-numComments=2

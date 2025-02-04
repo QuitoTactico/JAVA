@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ColeccionCalculadoresDeArea
-comment1.params=c
-comment1.target=void\ AgregarAlArray(CalculadorDeArea)
-comment2.params=
-comment2.target=void\ CalcularAreas()
-numComments=3

@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ClienteAmigo
-comment1.params=amigo
-comment1.target=void\ agregarAmigo(Amigo)
-comment2.params=
-comment2.target=void\ elMasAlto()
-numComments=3

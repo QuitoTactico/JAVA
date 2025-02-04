@@ -1,0 +1,4 @@
+ht,hola,Helmuth Trefftz
+dt,gato,David Trefftz
+gl,hola,Gloria Restrepo
+menso,carelombriz,hasjja

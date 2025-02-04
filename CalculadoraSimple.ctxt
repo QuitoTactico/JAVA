@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=CalculadoraSimple
-comment1.params=num1\ num2
-comment1.target=int\ sumar(int,\ int)
-comment2.params=num1\ num2
-comment2.target=int\ restar(int,\ int)
-numComments=3

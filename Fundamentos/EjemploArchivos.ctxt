@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EjemploArchivos
+comment1.params=nombre
+comment1.target=void\ leerArchivo(java.lang.String)
+comment2.params=nombre\ u\ c\ nC
+comment2.target=void\ agregarUsuario(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

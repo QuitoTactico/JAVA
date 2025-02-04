@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Cuadrado
-comment1.params=lado
-comment1.target=Cuadrado(double)
-comment2.params=
-comment2.target=double\ calcularArea()
-numComments=3

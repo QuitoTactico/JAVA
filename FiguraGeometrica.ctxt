@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=FiguraGeometrica
-comment1.params=nombre
-comment1.target=FiguraGeometrica(java.lang.String)
-comment2.params=
-comment2.target=double\ calcularArea()
-numComments=3

@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=InvertirArreglo
-comment1.params=a
-comment1.target=int[]\ invertir(int[])
-comment2.params=a
-comment2.target=void\ imprimir(int[])
-numComments=3

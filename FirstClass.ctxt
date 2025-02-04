@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=FirstClass
-comment1.params=a\ b
-comment1.target=byte\ sum(byte,\ byte)
-comment2.params=a\ b
-comment2.target=byte\ sumaFacil(byte,\ byte)
-numComments=3
